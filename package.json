@@ -1,0 +1,30 @@
+{
+  "name": "genetic",
+  "version": "1.0.0",
+  "description": "a small framework for describing and running genetic algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kousun12/genetic.git"
+  },
+  "keywords": [
+    "genetic",
+    "algorithm",
+    "run"
+  ],
+  "author": "kousun12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kousun12/genetic/issues"
+  },
+  "homepage": "https://github.com/kousun12/genetic#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.91.0"
+  }
+}
